@@ -19,7 +19,7 @@ My goal is to gain practical cloud skills and create real-world solutions.
 
 ### 1. Static Website Hosting on AWS
 **Description:** Hosted a static website using S3.  
-**Live demo:** [View Website](https://YOUR-S3-STATIC-WEBSITE-LINK)  
+**Live demo:** [View Website](http://fatemeh-cloud-portfolio.s3-website.ca-central-1.amazonaws.com) 
 **Screenshots:**
 ![Website Running](images/web-server-running.png)
 
