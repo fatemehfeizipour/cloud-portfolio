@@ -30,13 +30,13 @@ Launch a web server in the cloud and serve a basic webpage.
 Screenshots:
 
 EC2 instance running:
-![EC2 Instance](ec2-instance.png)
+![EC2 Instance](images/ec2-instance.png)
 
 Security Group configuration:
-![Security Group](security-group.png)
+![Security Group](images/security-group.png)
 
 Web server running:
-![Web Server](web-server-running.png)
+![Web Server](images/web-server-running.png)
 
 ---
 
