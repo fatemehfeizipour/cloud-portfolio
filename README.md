@@ -1,65 +1,46 @@
-# Cloud Portfolio – Fatemeh Feyzipour
+# Fatemeh Feyzipour – Cloud Portfolio ☁️
 
-This repository contains my hands-on cloud computing projects using Amazon Web Services.
+## About Me
+I am a cloud computing learner, building hands-on projects with Amazon Web Services (AWS).  
+My goal is to gain practical cloud skills and create real-world solutions.
+
+---
+
+## Skills
+- AWS Cloud Fundamentals
+- Amazon EC2
+- Amazon S3
+- IAM Security
+- Cloud Networking
+
+---
 
 ## Projects
 
-### 1️⃣ Static Website Hosting on AWS
+### 1. Static Website Hosting on AWS
+**Description:** Hosted a static website using S3.  
+**Live demo:** [View Website](https://YOUR-S3-STATIC-WEBSITE-LINK)  
+**Screenshots:**
+![Website Running](images/web-server-running.png)
 
-Services used:
+### 2. EC2 Web Server Deployment
+**Description:** Launched an EC2 instance with Nginx to serve web content.  
+**Screenshots:**
+- ![EC2 Instance](images/ec2-instance.png)
+- ![Security Group](images/security-group.png)
 
-* Amazon S3
-* CloudFront
+### 3. IAM Security Setup
+**Description:** Configured IAM users, roles, and policies for secure access.  
+**Screenshot:** ![IAM Setup](images/iam-setup.png)
 
-Goal:
-Host a static website using AWS infrastructure.
-
----
-
-### 2️⃣ EC2 Web Server
-
-Services used:
-
-* Amazon EC2
-* Security Groups
-* Nginx
-
-Goal:
-Launch a web server in the cloud and serve a basic webpage.
-
-Screenshots:
-
-EC2 instance running:
-![EC2 Instance](images/ec2-instance.png)
-
-Security Group configuration:
-![Security Group](images/security-group.png)
-
-Web server running:
-![Web Server](images/web-server-running.png)
+### 4. Architecture Diagram
+**Description:** Cloud architecture of deployed projects.  
+**Screenshot:** ![Architecture](images/architecture-diagram.png)
 
 ---
 
-### 3️⃣ IAM Security Lab
-
-Services used:
-
-* AWS IAM
-
-Goal:
-Create users, roles, and permissions to manage secure access.
+## Contact
+- LinkedIn: https://www.linkedin.com/in/fatemeh-feyzipour
+- GitHub: https://github.com/fatemehfeizipour
 
 ---
-
-### 4️⃣ Cloud Monitoring
-
-Services used:
-
-* Amazon CloudWatch
-
-Goal:
-Monitor system metrics and create alerts.
-
----
-
-More projects will be added as I continue learning cloud computing.
