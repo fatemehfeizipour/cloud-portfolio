@@ -1,26 +1,54 @@
 # Cloud Portfolio – Fatemeh Feyzipour
 
-Welcome to my cloud computing portfolio.
-
-This repository contains my hands-on cloud computing projects and architecture designs as I learn and practice cloud technologies.
+This repository contains my hands-on cloud computing projects using Amazon Web Services.
 
 ## Projects
 
-1. Static Website Hosting on AWS S3
-2. EC2 Web Server Deployment
-3. Cloud Architecture Design
-4. Serverless Application
+### 1️⃣ Static Website Hosting on AWS
 
-## Skills I'm Learning
+Services used:
 
-- AWS Cloud
-- EC2
-- S3
-- Cloud Architecture
-- Linux
-- Networking
+* Amazon S3
+* CloudFront
 
-## About Me
+Goal:
+Host a static website using AWS infrastructure.
 
-Aspiring Cloud Engineer based in Vancouver, Canada.  
-I enjoy building cloud projects and documenting my learning journey.
+---
+
+### 2️⃣ EC2 Web Server
+
+Services used:
+
+* Amazon EC2
+* Security Groups
+* Nginx
+
+Goal:
+Launch a web server in the cloud and serve a basic webpage.
+
+---
+
+### 3️⃣ IAM Security Lab
+
+Services used:
+
+* AWS IAM
+
+Goal:
+Create users, roles, and permissions to manage secure access.
+
+---
+
+### 4️⃣ Cloud Monitoring
+
+Services used:
+
+* Amazon CloudWatch
+
+Goal:
+Monitor system metrics and create alerts.
+
+---
+
+More projects will be added as I continue learning cloud computing.
